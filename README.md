@@ -14,7 +14,7 @@ The process of predicting the survival of Titanic passengers.
   -  Test a variety of feature combinations and tune ehe whole model formula (such as adding L2 regular term to the loss function).
 -  Result：
   -  ranked first in the class on the Private Leaderboard.
-  -  |           | Public Leaderboard | | Private Leaderboard |
-     |  ----     | -------------------| | ------------------  |
+  -  | --------- | Public Leaderboard | | Private Leaderboard |
+     | --------- | -------------------| | ------------------  |
      |  F1-score |      0.83832       | |       0.81673       |
      |    Rank#  |         #8         | |          #1         |
