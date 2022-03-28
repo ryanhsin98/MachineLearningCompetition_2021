@@ -13,21 +13,21 @@ The process of predicting the survival of Titanic passengers.
   -  The reason is that it is suitable for binary classification problems, and on the other hand, there is no data distribution assumptions like Naive bayes classifier which could occur the errors due to assumptions.
   -  Test a variety of feature combinations and tune ehe whole model formula (such as adding L2 regular term to the loss function).
 -  Result：
-  -  ranked first in the class on the Private Leaderboard.
-  -  <table>
-  <tr>
-    <td> </td>
-    <td>Public Leaderboard</td>
-    <td>Private Leaderboard</td>
-  </tr>
-  <tr>
-    <td> F1-score </td>
-    <td> 0.83832 </td>
-    <td> 0.81673 </td>
-  </tr>
-  <tr>
-    <td> Rank# </td>
-    <td> #8 </td>
-    <td> #1 </td>
-  </tr>
-</table>
+    -  ranked first in the class on the Private Leaderboard.
+    -  <table>
+    <tr>
+      <td> </td>
+      <td>Public Leaderboard</td>
+      <td>Private Leaderboard</td>
+    </tr>
+    <tr>
+      <td> F1-score </td>
+      <td> 0.83832 </td>
+      <td> 0.81673 </td>
+    </tr>
+    <tr>
+      <td> Rank# </td>
+      <td> #8 </td>
+      <td> #1 </td>
+    </tr>
+    </table>
