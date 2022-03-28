@@ -16,7 +16,7 @@ The process of predicting the survival of Titanic passengers.
   -  ranked first in the class on the Private Leaderboard.
   -  <table>
   <tr>
-    <td>表現</td>
+    <td> </td>
     <td>Public Leaderboard</td>
     <td>Private Leaderboard</td>
   </tr>
