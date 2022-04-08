@@ -11,7 +11,7 @@ The process of predicting the survival of Titanic passengers.
 - Model constuction：
   -  Choose the logistic regression model as the most suitable for this prediction task.
   -  The reason is that it is suitable for binary classification problems, and on the other hand, there is no data distribution assumptions like Naive bayes classifier which could occur the errors due to assumptions.
-  -  Test a variety of feature combinations and tune ehe whole model formula (such as adding L2 regular term to the loss function).
+  -  Test a variety of feature combinations and tune the whole model formula (such as adding L2 regular term to the loss function).
 -  Result：
     -  ranked first in the class on the Private Leaderboard.
     -  <table>
